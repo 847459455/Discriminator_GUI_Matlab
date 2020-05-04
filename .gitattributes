@@ -20,3 +20,5 @@ octave-workspace
 
 # Simulink autosave extension
 .autosave
+
+*.m linguist-language=MATLAB
