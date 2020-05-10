@@ -12,12 +12,12 @@ W2: X1=(2,1).T,X2=(2,2).T,X3=(1,3).T
 
 
 
-![感知器](S:\study\code\Perceptron_GUI_Matlab\pic\感知器.png)
+![感知器](\pic\感知器.png)
 
 
 
-![标点](S:\study\code\Perceptron_GUI_Matlab\pic\标点.png)
+![标点](\pic\标点.png)
 
 
 
-![判别](S:\study\code\Perceptron_GUI_Matlab\pic\判别.png)
+![判别](\pic\判别.png)
